@@ -1,2 +1,2 @@
 # pildid
-![Alt text](suurpilt.png)
+![Alt text](vaike1.png)
