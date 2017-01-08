@@ -20,7 +20,7 @@
 </tr>
 </table>
 
-|[![alt text](vaike1.png)](suurpilt.png)| [![alt text](vaike1.png)](suurpilt.png)|
+|![Preview](suurpilt.png)|![Preview](suurpilt.png)|
 ----------------------------------------------------------------------------------
 |[![alt text](vaike1.png)](suurpilt.png)| [![alt text](vaike1.png)](suurpilt.png)|
 
