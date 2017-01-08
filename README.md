@@ -1,28 +1,9 @@
 # pildid
-[![alt text](vaike1.png)](suurpilt.png)
-![Preview](suurpilt.png)
-<table>
-<tr>
-  <td>
-  <img src="https://github.com/katsegit/pildid/blob/master/suurpilt.png" style="border-style: hidden;">
-  </td>
-    <td>
-    <img src="https://github.com/katsegit/pildid/blob/master/suurpilt.png">
-  </td>
-</tr>
-<tr>
-  <td>
-  ![Preview](suurpilt.png)
-  </td>
-    <td>
-    ![Preview](suurpilt.png)
-  </td>
-</tr>
-</table>
+
 
 |![Preview](suurpilt.png)|![Preview](suurpilt.png)|
 ----------------------------------------------------------------------------------
-|[![alt text](vaike1.png)](suurpilt.png)| [![alt text](vaike1.png)](suurpilt.png)|
+|![Alt text](vaike1.png "Optional title")| ![Alt text](vaike2.png "Optional title")|
 
 
 | Command | Description |
