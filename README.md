@@ -3,7 +3,7 @@
 
 |![Preview](ekraan.png)|![Preview](ekraan.png)|
 |-------|----|
-|![Alt text](vaike1.png "Optional title")| ![Alt text](vaike2.png "Optional title")|
+|![Alt text](ekraan.jpg)| ![Alt text](ekraan.jpg)|
 
 
 | Command | Description |
