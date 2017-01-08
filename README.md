@@ -4,10 +4,10 @@
 <table>
 <tr>
   <td>
-  ![Alt text](suurpilt.png "Optional title")
+  <img src="https://github.com/katsegit/pildid/blob/master/suurpilt.png">
   </td>
     <td>
-    ![Alt text](suurpilt.png "Optional title")
+    <img src="https://github.com/katsegit/pildid/blob/master/suurpilt.png">
   </td>
 </tr>
 <tr>
