@@ -4,10 +4,10 @@
 <table>
 <tr>
   <td>
-  ![Preview](suurpilt.png)
+  [![alt text](vaike1.png)](suurpilt.png)
   </td>
     <td>
-    ![Preview](suurpilt.png)
+    [![alt text](vaike1.png)](suurpilt.png)
   </td>
 </tr>
 <tr>
