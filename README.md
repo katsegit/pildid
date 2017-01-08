@@ -1,7 +1,7 @@
 # pildid
 
 
-|![Preview](suurpilt.png)|![Preview](suurpilt.png)|
+|![Preview](ekraan.png)|![Preview](ekraan.png)|
 |-------|----|
 |![Alt text](vaike1.png "Optional title")| ![Alt text](vaike2.png "Optional title")|
 
