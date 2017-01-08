@@ -1,6 +1,11 @@
-# pildid
-dfsfsffadsfdfasdf
+# PEALKIRI
+
 ![Preview](ekraan.png)
+Nimi
+
+## Eesmärk
+blabla
+
 ## Kirjeldus
 * Sihtrühm:
 	* Vanus: 20-75+
@@ -11,9 +16,6 @@ dfsfsffadsfdfasdf
 |![Alt text](ekraan.png)| ![Alt text](ekraan.png)|
 
 
-## Kirjeldus
-* Sihtrühm:
-	* Vanus: 20-75+
 
 ## Andmebaasi skeem ja tabelite loomise SQL laused
 ![Preview](suurpilt.png)
@@ -29,5 +31,4 @@ type varchar(30) unique not null primary key
 
 * Kokkuvõte: mida õppisid juurde? mis ebaõnnestus? mis oli keeruline?
 	* bla
-	Isiklikuks ebaõnnestumiseks pean php tegemises vähest osavõttu. Projekti osas sõnumite süsteem ja mõned väikesed detailid, nagu profiilipildi muutmine jms. Keeruline oligi ebaõnnestunud asjad :) 
 	
