@@ -21,4 +21,5 @@
 </table>
 
 |[![alt text](vaike1.png)](suurpilt.png)| [![alt text](vaike1.png)](suurpilt.png)|
+----------------------------------------------------------------------------------
 |[![alt text](vaike1.png)](suurpilt.png)| [![alt text](vaike1.png)](suurpilt.png)|
