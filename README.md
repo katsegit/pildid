@@ -3,7 +3,7 @@
 
 |![Preview](ekraan.png)|![Preview](ekraan.png)|
 |-------|----|
-|![Alt text](ekraan.jpg)| ![Alt text](ekraan.jpg)|
+|![Alt text](ekraan.png)| ![Alt text](ekraan.png)|
 
 
 | Command | Description |
