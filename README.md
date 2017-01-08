@@ -1,6 +1,7 @@
 # pildid
 
 ![Preview](ekraan.png)
+-------------------------
 |![Preview](ekraan.png)|![Preview](ekraan.png)|
 |-------|----|
 |![Alt text](ekraan.png)| ![Alt text](ekraan.png)|
