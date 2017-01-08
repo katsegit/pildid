@@ -1,13 +1,15 @@
 # pildid
-
+dfsfsffadsfdfasdf
 ![Preview](ekraan.png)
+## Kirjeldus
+* Sihtrühm:
+	* Vanus: 20-75+
 -------------------------
 |![Preview](ekraan.png)|![Preview](ekraan.png)|
 |-------|----|
 |![Alt text](ekraan.png)| ![Alt text](ekraan.png)|
+-----------------------------
 
-
-| Command | Description |
-| --- | --- |
-| `git status` | List all *new or modified* files |
-| `git diff` | Show file differences that **haven't been** staged |
+## Kirjeldus
+* Sihtrühm:
+	* Vanus: 20-75+
